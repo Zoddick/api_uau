@@ -1,10 +1,24 @@
-# Desenvolvimento de API com Ruby on Rails + docker + banco de dados
+# README
 
-## Trabalho de sala de aula para conclusão de aprendizagem
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-### Tarefas a serem executadas
+Things you may want to cover:
 
-- Criar conteiner Docker
-- Definir máquinas
-    - app
-    - db
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
